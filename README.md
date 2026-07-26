@@ -24,49 +24,50 @@
 | 🛠 **Software Developer** | [Access Group (Pvt.) Ltd.](https://access.net.pk/) | **Jul 2025 – Present** |
 
 ---
-
 <h3 align="center">🚀 Tech Stack</h3>
 
-<table>
+<table align="center">
   <tr>
-    <!-- Frontend -->
-    <td valign="top" width="50%">
-      <h4 align="center">Frontend</h4>
-      <p align="center">
-        <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" width="50" height="50" alt="Angular"/>
-        <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-        <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="50" height="50" alt="HTML5"/>
-        <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="50" height="50" alt="CSS3"/>
-        <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
-        <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" width="50" height="50" alt="Figma"/>
-      </p>
-    </td>
+    <td align="center" valign="top" width="50%">
+      <h4>Frontend</h4>
 
-    <!-- Backend -->
-    <td valign="top" width="50%">
-      <h4 align="center">Backend</h4>
-      <p align="center">
-        <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" width="50" height="50" alt="Java"/>
-        <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" width="50" height="50" alt="Spring Boot"/>
-        <img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" width="50" height="50" alt="Oracle"/>
-        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="50" height="50" alt="Git"/>
-        <img src="https://profilinator.rishav.dev/skills-assets/github-original-wordmark.svg" width="50" height="50" alt="GitHub"/>
-      </p>
-    </td>
-  </tr>
+<img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" width="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" width="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" width="50"/>
 
-  <tr>
-    <td valign="top" colspan="2">
-      <h4 align="center">Tools & Platforms</h4>
-      <p align="center">
-        <img src="https://profilinator.rishav.dev/skills-assets/jira.svg" width="50" height="50" alt="Jira"/>
-        <img src="https://profilinator.rishav.dev/skills-assets/vscode.png" width="50" height="50" alt="VS Code"/>
-        <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" width="50" height="50" alt="Firebase"/>
-      </p>
-    </td>
-  </tr>
+</td>
+
+<td align="center" valign="top" width="50%">
+
+<h4>Backend</h4>
+
+<img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" width="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" width="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" width="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/github-original-wordmark.svg" width="50"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<h4>Tools & Platforms</h4>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+<img src="https://cdn.simpleicons.org/jira/0052CC" width="50"/>
+<img src="https://cdn.simpleicons.org/firebase/FFCA28" width="50"/>
+<img src="https://cdn.simpleicons.org/clickup/7B68EE" width="50"/>
+<img src="https://cdn.simpleicons.org/git/F05032" width="50"/>
+<img src="https://cdn.simpleicons.org/github/181717" width="50"/>
+
+</td>
+</tr>
 </table>
-
 ---
 
 ## ⭐ Featured Projects
