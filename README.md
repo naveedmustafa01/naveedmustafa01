@@ -48,7 +48,6 @@
 <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" width="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" width="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="50"/>
-<img src="https://profilinator.rishav.dev/skills-assets/github-original-wordmark.svg" width="50"/>
 
 </td>
 </tr>
@@ -84,7 +83,6 @@
 
 - 💼 **Role:** Software Developer
 - 📧 **Email:** naveedmustafa9999@gmail.com
-- 📞 **Phone:** +92 313 7431374
 - 🧾 **LinkedIn:** <a href="https://linkedin.com/in/naveed-mustafa-3b5a3b35b">Naveed Mustafa</a>
 - 🐙 **GitHub:** <a href="https://github.com/naveedmustafa01">naveedmustafa01</a>
 
