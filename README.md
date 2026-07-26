@@ -1,19 +1,19 @@
 <div align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" style="width: 100%" />
-</div>  
+</div>
 
-<h2 align="center">Hey 👋 I'm Muqadas Urooj</h2>  
-<h4 align="center">Full Stack Developer | Software Engineer </h4>
+<h2 align="center">Hey 👋 I'm Naveed Mustafa</h2>
+<h4 align="center">Software Developer | Java Full Stack Developer</h4>
 
 ---
 
 ### 🧠 About Me
 
-- 💼 Software Developer |  | Next.js | Node.js | Vue.js | Laravel | Java
+- 💼 Software Developer specializing in **Java, Spring Boot, Angular, TypeScript, Oracle Database**
 - 📍 Based in Karachi, Pakistan — Open to remote & hybrid opportunities
-- 🌐 Building dynamic, scalable apps with clean code & strong UI/UX
-- 💬 Ask me about: Frontend Magic ✨ | REST APIs | Full Stack Project Architecture
-- ⚡ Fun fact: I thrive in tech communities and lead with purpose
+- 🌐 Passionate about building scalable enterprise applications with clean architecture and modern UI
+- 💬 Ask me about: Java | Spring Boot | Angular | REST APIs | Oracle Database
+- ⚡ Fun fact: I enjoy solving complex backend problems and building performant enterprise solutions.
 
 ---
 
@@ -21,9 +21,10 @@
 
 | Role | Company | Duration |
 |------|---------|----------|
-| 🛠 **Software Design Engineer** | [Access Group (Pvt Ltd)](https://access.net.pk/) | Feb 2025 – Present |
+| 🛠 **Software Developer** | [Access Group (Pvt.) Ltd.](https://access.net.pk/) | **Jul 2025 – Present** |
 
 ---
+
 <h3 align="center">🚀 Tech Stack</h3>
 
 <table>
@@ -55,7 +56,6 @@
   </tr>
 
   <tr>
-    <!-- Tools -->
     <td valign="top" colspan="2">
       <h4 align="center">Tools & Platforms</h4>
       <p align="center">
@@ -69,19 +69,11 @@
 
 ---
 
-## ⭐ Featured Project
-- 🔗 [App Launch Landing](https://applaunchweb.netlify.app/) — ReactJS, Tailwind CSS  
-- 🔗 [Academic Website](https://acadmicwebsite.netlify.app/) — Responsive UI, HTML/CSS  
-- 🔗 [Personal Portfolio](https://muqadasurooj.netlify.app/)  
+## ⭐ Featured Projects
 
----
-
-## 📜 Certifications
-
-- 🏆 **Google** — Cloud Seekho Challenge, DevFest 2023, Solution Challenge  
-- 🏆 **Microsoft** — Innovative Educator Award  
-- 🏆 **Udemy** — Java for Beginners, Intro to Databases & SQL  
-- 👩‍💻 **GDSC Lead** — Organized 15+ events, hackathons & community sessions
+- 🔗 Add your best enterprise or personal project here
+- 🔗 Add another featured project
+- 🔗 Add your portfolio or GitHub repository
 
 ---
 
@@ -89,30 +81,34 @@
 
 <div align="left">
 
-- 💼 Role: **Software Developer**
-- 📧 Email: **naveedmustafa9999@gmail.com**
-- 📞 Phone: **+92 313 7431374**
-- 🧾 LinkedIn: <a href="https://linkedin.com/in/naveed-mustafa-3b5a3b35b">Naveed Mustafa</a>
-- 🐙 GitHub: <a href="https://github.com/naveedmustafa01">naveedmustafa01</a>
+- 💼 **Role:** Software Developer
+- 📧 **Email:** naveedmustafa9999@gmail.com
+- 📞 **Phone:** +92 313 7431374
+- 🧾 **LinkedIn:** <a href="https://linkedin.com/in/naveed-mustafa-3b5a3b35b">Naveed Mustafa</a>
+- 🐙 **GitHub:** <a href="https://github.com/naveedmustafa01">naveedmustafa01</a>
 
 </div>
+
 ---
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=muqadasurooj17&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=1800" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=naveedmustafa01&&style=flat-square" />
+<img src="https://github-readme-stats.vercel.app/api?username=naveedmustafa01&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=1800" />
 
-  
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=naveedmustafa01&style=flat-square" />
+
 </div>
 
 ---
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naveedmustafa01&theme=github-compact" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muqadasurooj17&theme=github-compact" />
-
+---
 
 <div align="center">
-  🛠️ *Maintained with ❤️ by Naveed Mustafa*
+
+### 🛠️ Maintained with ❤️ by Naveed Mustafa
+
 </div>
