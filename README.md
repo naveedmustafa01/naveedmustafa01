@@ -46,7 +46,6 @@
 
 <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" width="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" width="50"/>
-<img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" width="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="50"/>
 
 </td>
@@ -60,7 +59,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
 <img src="https://cdn.simpleicons.org/jira/0052CC" width="50"/>
 <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="50"/>
-<img src="https://cdn.simpleicons.org/clickup/7B68EE" width="50"/>
 <img src="https://cdn.simpleicons.org/git/F05032" width="50"/>
 <img src="https://cdn.simpleicons.org/github/181717" width="50"/>
 
