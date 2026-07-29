@@ -2,18 +2,23 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" style="width: 100%" />
 </div>
 
-<h2 align="center">Hey 👋 I'm Naveed Mustafa</h2>
-<h4 align="center">Software Developer | Java Full Stack Developer</h4>
+<h1 align="center">Naveed Mustafa</h1>
+<h3 align="center">Java Full Stack Developer · Spring Boot · Angular · Oracle</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/naveed-mustafa-3b5a3b35b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:naveedmustafa9999@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/naveedmustafa01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=naveedmustafa01&style=for-the-badge&color=3f4b66" />
+</p>
 
 ---
 
 ### 🧠 About Me
 
-- 💼 Software Developer specializing in **Java, Spring Boot, Angular, TypeScript, Oracle Database**
-- 📍 Based in Karachi, Pakistan — Open to remote & hybrid opportunities
-- 🌐 Passionate about building scalable enterprise applications with clean architecture and modern UI
-- 💬 Ask me about: Java | Spring Boot | Angular | REST APIs | Oracle Database
-- ⚡ Fun fact: I enjoy solving complex backend problems and building performant enterprise solutions.
+- 💼 Software Developer specializing in **Java · Spring Boot · Angular · TypeScript · Oracle DB**
+- 📍 Based in **Karachi, Pakistan** — Open to remote & hybrid opportunities
+- 🌐 Focused on scalable enterprise applications with clean architecture and modern UI
+- ⚡ Fun fact: I enjoy solving complex backend problems and building performant enterprise solutions
 
 ---
 
@@ -24,88 +29,63 @@
 | 🛠 **Software Developer** | [Access Group (Pvt.) Ltd.](https://access.net.pk/) | **Jul 2025 – Present** |
 
 ---
-<h3 align="center">🚀 Tech Stack</h3>
+
+## 🚀 Tech Stack
 
 <table align="center">
   <tr>
-    <td align="center" valign="top" width="50%">
-      <h4>Frontend</h4>
-
-<img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" width="50"/>
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="50"/>
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="50"/>
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="50"/>
-<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" width="50"/>
-<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" width="50"/>
-
-</td>
-
-<td align="center" valign="top" width="50%">
-
-<h4>Backend</h4>
-
-<img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" width="50"/>
-<img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" width="50"/>
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="50"/>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-<h4>Tools & Platforms</h4>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-<img src="https://cdn.simpleicons.org/jira/0052CC" width="50"/>
-<img src="https://cdn.simpleicons.org/firebase/FFCA28" width="50"/>
-<img src="https://cdn.simpleicons.org/git/F05032" width="50"/>
-<img src="https://cdn.simpleicons.org/github/181717" width="50"/>
-
-</td>
-</tr>
+    <td align="center" valign="top" width="33%">
+      <h4>⚡ Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,figma&perline=4" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h4>🔧 Backend</h4>
+      <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate&perline=4" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h4>🛠 Tools & Platforms</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,firebase,jira&perline=4" />
+    </td>
+  </tr>
 </table>
+
+> 🗄️ **Database:** Oracle · SQL · PL/SQL · EntityManager (JPA)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naveedmustafa01&count_private=true&show_icons=true&include_all_commits=true&theme=default&hide_border=true&title_color=3f4b66&icon_color=3f4b66" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveedmustafa01&layout=compact&hide_border=true&title_color=3f4b66" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveedmustafa01&theme=github-compact&hide_border=true" />
+</div>
+
 ---
 
 ## ⭐ Featured Projects
 
-- 🔗 Add your best enterprise or personal project here
-- 🔗 Add another featured project
-- 🔗 Add your portfolio or GitHub repository
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🔗 *Coming soon* | Enterprise Merchant Portal — Maker-Checker workflows, chain hierarchy reporting, dynamic dashboards | Angular · Spring Boot · Oracle |
+| 🔗 *Add your project* | Short description | Tech |
 
 ---
 
 ## 📫 Contact
 
-<div align="left">
-
-- 💼 **Role:** Software Developer
-- 📧 **Email:** naveedmustafa9999@gmail.com
-- 🧾 **LinkedIn:** <a href="https://linkedin.com/in/naveed-mustafa-3b5a3b35b">Naveed Mustafa</a>
-- 🐙 **GitHub:** <a href="https://github.com/naveedmustafa01">naveedmustafa01</a>
-
-</div>
+| | |
+|---|---|
+| 📧 **Email** | naveedmustafa9999@gmail.com |
+| 💼 **LinkedIn** | [Naveed Mustafa](https://linkedin.com/in/naveed-mustafa-3b5a3b35b) |
+| 🐙 **GitHub** | [naveedmustafa01](https://github.com/naveedmustafa01) |
+| 📍 **Location** | Karachi, Pakistan |
 
 ---
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=naveedmustafa01&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=1800" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=naveedmustafa01&style=flat-square" />
-
-</div>
-
----
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naveedmustafa01&theme=github-compact" />
-
----
-
-<div align="center">
-
-### 🛠️ Maintained with ❤️ by Naveed Mustafa
-
+  <sub>🛠️ Maintained with ❤️ by Naveed Mustafa</sub>
 </div>
