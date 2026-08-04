@@ -29,7 +29,7 @@ Role         : Full Stack Developer  (Java · Spring Boot · Angular)
 Company      : Access Group (Pvt.) Ltd. — Karachi, Pakistan
 Since        : July 2025
 Availability : Open to Remote & Hybrid roles
-Domain       : Enterprise fintech portals, approval workflows, hierarchy reporting
+Domain       : Enterprise fintech portals · Approval workflows · Hierarchy reporting
 ```
 
 I build production-grade enterprise systems — not side projects. My day-to-day involves designing Spring Boot microservices, Oracle-backed persistence layers with JPA/EntityManager, and Angular UIs driven by PrimeNG. I care about system correctness, audit trails, and maintainability over quick wins.
@@ -59,10 +59,11 @@ I build production-grade enterprise systems — not side projects. My day-to-day
       <br/><br/>
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/PL%2FSQL-336791?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/JPA%2FEntityManager-59666C?style=for-the-badge"/>
     </td>
     <td align="center" valign="top" width="25%">
       <b>Tooling</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,jira&perline=4"/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,jira,firebase&perline=4"/>
     </td>
   </tr>
 </table>
@@ -73,23 +74,18 @@ I build production-grade enterprise systems — not side projects. My day-to-day
 
 <table width="100%">
   <tr>
-    <td width="5%" align="center">
-      <img src="https://img.shields.io/badge/-3f4b66?style=flat-square&logo=briefcase&logoColor=white" width="30"/>
-    </td>
     <td width="30%"><b>Software Developer</b></td>
-    <td width="38%"><a href="https://access.net.pk/"><b>Access Group (Pvt.) Ltd.</b></a></td>
-    <td align="right">
-      <img src="https://img.shields.io/badge/Jul%202025%E2%80%93Present-3f4b66?style=flat-square"/>
-    </td>
+    <td width="43%"><a href="https://access.net.pk/"><b>Access Group (Pvt.) Ltd.</b></a></td>
+    <td align="right"><img src="https://img.shields.io/badge/Jul%202025%E2%80%93Present-3f4b66?style=flat-square"/></td>
   </tr>
 </table>
 
-Working on the **Merchant Portal** — an internal enterprise product used for managing merchant hierarchies, financial approvals, and operational reporting.
+Working on the **Merchant Portal** — an internal enterprise product for managing merchant hierarchies, financial approvals, and operational reporting.
 
-- Designed and implemented a **Maker-Checker Control Mechanism**: dual-role approval pipeline where every sensitive operation (create/update/delete) requires a second-level authorization before it is committed. Includes full rejection flow with reason tracking.
+- Designed and implemented a **Maker-Checker Control Mechanism**: dual-role approval pipeline where every sensitive operation (create/update/delete) requires second-level authorization before commit. Includes full rejection flow with reason tracking.
 - Built the **Chain Merchant Hierarchy** module: parent-child merchant relationships with drill-down reporting, aggregate views, and configurable depth traversal using recursive Oracle queries.
 - Developed the **dashboard layer** in Angular — dynamic widgets with role-scoped visibility, real-time refresh, and layout state preserved per user session.
-- Enforced **RBAC** across all portal features: permissions resolved at API level (Spring Security), not just hidden in the UI.
+- Enforced **RBAC** across all portal features: permissions resolved at API level via Spring Security, not just hidden in the UI.
 - Maintained data integrity through EntityManager-based persistence with explicit transaction boundaries and audit logging on every write operation.
 
 ---
